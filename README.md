@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHAHRIYARTAUFIK
 - 👀 I’m interested in AIML,cyber security,web development,etc.
-- 🌱 I’m currently learning AIML
+- 🌱 I’m currently learning fullstack development
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I am a good learner and never repeat mistakes
 
