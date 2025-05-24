@@ -11,7 +11,7 @@
   <a href="mailto:your.email@gmail.com" target="blank">
     <img
       align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4e/GmailIcon.png"
       alt="Gmail"
       height="30"
       width="40"
