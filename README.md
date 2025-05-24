@@ -10,13 +10,8 @@
 <a href="https://www.linkedin.com/in/shahriyar-taufik-19662b287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahriyar-taufik-19662b287/" height="30" width="40" /></a>
 </p>
 <a href="mailto:shahriyartaufik111@gmail.com" target="_blank">
-  <img
-    align="center"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg"
-    alt="Gmail"
-    height="30"
-    width="40"
-  />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Gmail" height="30"
+    width="40"/>
 </a>
 
 
