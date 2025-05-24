@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p align="center">
   <!-- Gmail icon -->
   <a href="mailto:your.email@gmail.com" target="_blank">
     <img
