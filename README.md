@@ -7,19 +7,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Gmail icon -->
   <a href="mailto:your.email@gmail.com" target="_blank">
     <img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
       alt="Gmail"
       height="30"
       width="40"
     />
   </a>
-  <!-- small spacer -->
   &nbsp;&nbsp;
-  <!-- LinkedIn icon -->
   <a href="https://www.linkedin.com/in/shahriyar-taufik-19662b287/" target="_blank">
     <img
       align="center"
