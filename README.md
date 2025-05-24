@@ -7,24 +7,27 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:shahriyartaufik111.email@gmail.com" target="_blank">
     <img
       align="center"
-      src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
       alt="Gmail"
       height="30"
+      width="40"
     />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shahriyar-taufik-19662b287/" target="_blank">
     <img
       align="center"
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
       height="30"
+      width="40"
     />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
