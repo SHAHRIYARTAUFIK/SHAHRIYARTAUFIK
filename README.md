@@ -3,6 +3,7 @@
 
 
 
+
 - 🌱 I’m currently learning **AI&ML**
 - 🔭 I’m currently working at **Alpha Codes**  
 - 💻 Focused on front-End development 
