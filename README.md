@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning **AI&ML**
 - 🔭 I’m currently working at **Alpha Codes**  
 - 💻 Focused on front-End development
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:shahriyartaufik.email@gmail.com" target="_blank">
