@@ -7,7 +7,7 @@
 - 💻 Focused on web development
   
 -<a href="https://shahriyartaufik.netlify.app" target="_blank">
-  <img width="10" height="10" alt="ST" src="https://github.com/user-attachments/assets/b7cc9635-0d8d-42cd-8e3e-a4b59d620b31" />
+  <img width="100" height="100" alt="ST" src="https://github.com/user-attachments/assets/b7cc9635-0d8d-42cd-8e3e-a4b59d620b31" />
 </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
