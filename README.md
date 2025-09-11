@@ -5,7 +5,7 @@
 - 🔭 I’m currently working at **Alpha Codes**  
 - 💻 Focused on web development
   
--<a href="[https://shahriyartaufik.netlify.app](https://shahriyartaufik.netlify.app)" target="_blank">
+-<a href="https://shahriyartaufik.netlify.app" target="_blank">
   <img src="assets/image_1bbcbb.png" alt="My Portfolio" width="40" />
 </a>
 <h3 align="left">Connect with me:</h3>
