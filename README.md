@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning **AI&ML**
 - 🔭 I’m currently working at **Alpha Codes**  
 - 💻 Focused on web development
-- <link rel="icon" type="image/png" href="https://shahriyartaufik.netlify.app/">
+-<a href="[https://shahriyartaufik.netlify.app](https://shahriyartaufik.netlify.app)" target="_blank">
+  <img src="assets/image_1bbcbb.png" alt="My Portfolio" width="40" />
+</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:shahriyartaufik.email@gmail.com" target="_blank">
