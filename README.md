@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shahriyar Taufik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
 - 🌱 I’m currently learning **AI&ML**
 - 🔭 I’m currently working at **Alpha Codes**  
 - 💻 Focused on web development
   
 -<a href="https://shahriyartaufik.netlify.app" target="_blank">
-  <img src="ST.png" alt="My Portfolio" width="40" />
+  <img width="1024" height="1024" alt="ST" src="https://github.com/user-attachments/assets/b7cc9635-0d8d-42cd-8e3e-a4b59d620b31" />
 </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
