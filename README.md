@@ -6,7 +6,7 @@
 - 💻 Focused on web development
 -
   <h3>
-  <a href="https://shahriyartaufik.netlify.app" target="_blank">
+  <a href="https://shahriyartaufik.netlify.app" target="_blank" rel="noopener noreferrer">
     <img 
       width="74" 
       height="74" 
@@ -16,6 +16,7 @@
     />
   </a>
 </h3>
+
 
 
 <h3 align="left">Connect with me:</h3>
