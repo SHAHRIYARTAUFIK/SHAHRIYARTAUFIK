@@ -5,10 +5,18 @@
 - 🔭 I’m currently working at **Alpha Codes**  
 - 💻 Focused on web development
 -
-  <h3
+  <h3>
   <a href="https://shahriyartaufik.netlify.app" target="_blank">
-  <img width="74" height="74" alt="ST" src="https://github.com/user-attachments/assets/b7cc9635-0d8d-42cd-8e3e-a4b59d620b31" />
-</a></h3>
+    <img 
+      width="74" 
+      height="74" 
+      alt="ST" 
+      src="https://github.com/user-attachments/assets/b7cc9635-0d8d-42cd-8e3e-a4b59d620b31"
+      style="cursor: pointer;"
+    />
+  </a>
+</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
