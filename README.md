@@ -10,8 +10,7 @@
     <img 
       width="74" 
       height="74" 
-      alt="ST" 
-   src="https://github.com/user-attachments/assets/b7cc9635-0d8d-42cd-8e3e-a4b59d620b31"
+      alt="ST"   src="https://github.com/user-attachments/assets/b7cc9635-0d8d-42cd-8e3e-a4b59d620b31"
       style="cursor: pointer;"
     />
   </a>
