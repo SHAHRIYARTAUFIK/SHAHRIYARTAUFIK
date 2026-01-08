@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **AI&ML**
 - 🔭 I’m currently working at **Alpha Codes**  
 - 💻 Focused on web development
--
+- 
   <h3>
   <a href="https://shahriyartaufik.netlify.app" target="_blank" rel="noopener noreferrer">
     <img 
