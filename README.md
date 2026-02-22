@@ -44,20 +44,15 @@
 ---
 ---
 <div align="center">
-  <a href="https://github.com/SHAHRIYARTAUFIK">
-    <img src="https://github-readme-stats-inky-nine-83.vercel.app/api?username=SHAHRIYARTAUFIK&show_icons=true&theme=tokyonight&count_private=true" alt="Shahriyar's GitHub Stats" height="185"/>
-  </a>
-  <a href="https://github.com/SHAHRIYARTAUFIK">
-    <img src="https://github-readme-stats-inky-nine-83.vercel.app/api/top-langs/?username=SHAHRIYARTAUFIK&layout=compact&theme=tokyonight" alt="Top Languages" height="185"/>
-  </a>
-</div>
 
-<br>
+| **GitHub Profile Stats** | **Most Used Languages** |
+| :---: | :---: |
+| <a href="https://github.com/SHAHRIYARTAUFIK"><img src="https://github-readme-stats-inky-nine-83.vercel.app/api?username=SHAHRIYARTAUFIK&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="400" /></a> | <a href="https://github.com/SHAHRIYARTAUFIK"><img src="https://github-readme-stats-inky-nine-83.vercel.app/api/top-langs/?username=SHAHRIYARTAUFIK&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="358" /></a> |
 
-<div align="center">
-  <a href="https://github.com/SHAHRIYARTAUFIK">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAHRIYARTAUFIK&theme=tokyonight&hide_border=true" alt="Shahriyar's GitHub Streak" />
-  </a>
+<br />
+
+[![Shahriyar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHAHRIYARTAUFIK&theme=tokyonight&hide_border=true)](https://github.com/SHAHRIYARTAUFIK)
+
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
