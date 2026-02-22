@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shahriyar Taufik</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **AI&ML**
+- 🌱 I’m currently learning **Ethical Hacking**
+- 🎢 certified intern at **AWS gen ai**
 - 🔭 I’m currently working at **Alpha Codes**  
 - 💻 Focused on web development
 -
