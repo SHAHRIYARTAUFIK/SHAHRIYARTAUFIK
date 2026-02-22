@@ -45,12 +45,13 @@
 ---
 <div align="center">
   <a href="https://github.com/SHAHRIYARTAUFIK">
-    <img src="https://github-readme-stats-ifs1cc6fg-shahriyartaufik-8825s-projects.vercel.app/api?username=SHAHRIYARTAUFIK&show_icons=true&theme=tokyonight&count_private=true&v=2" alt="Shahriyar's GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats-inky-nine-83.vercel.app/api?username=SHAHRIYARTAUFIK&show_icons=true&theme=tokyonight&count_private=true" alt="Shahriyar's GitHub Stats" height="185"/>
   </a>
   <a href="https://github.com/SHAHRIYARTAUFIK">
-    <img src="https://github-readme-stats-ifs1cc6fg-shahriyartaufik-8825s-projects.vercel.app/api/top-langs/?username=SHAHRIYARTAUFIK&layout=compact&theme=tokyonight&v=2" alt="Top Languages" height="180"/>
+    <img src="https://github-readme-stats-inky-nine-83.vercel.app/api/top-langs/?username=SHAHRIYARTAUFIK&layout=compact&theme=tokyonight" alt="Top Languages" height="185"/>
   </a>
 </div>
+
 <br>
 
 <div align="center">
