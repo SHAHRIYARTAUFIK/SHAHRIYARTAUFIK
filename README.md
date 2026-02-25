@@ -35,7 +35,7 @@
 - 💼 **AICTE & EduSkills AI-ML Internship:** Completed a 10-week virtual internship supported by Google for Developers. 
 
 ### 📫 Connect with Me
-
+ 
 <p align="left">
 <a href="https://shahriyartaufik.in/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="30" /></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
