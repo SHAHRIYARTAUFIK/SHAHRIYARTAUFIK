@@ -42,7 +42,6 @@
 </p>
 
 ---
----
 <div align="center">
 
 | **GitHub Profile Stats** | **Most Used Languages** |
