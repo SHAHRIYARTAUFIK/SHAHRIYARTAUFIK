@@ -6,7 +6,6 @@
 </p>
  
 ---
-
 ### 🚀 About Me
 
 - 🎓 Currently pursuing my B.Tech in ECSE at **KIIT University**  with a CGPA of 8.32.
