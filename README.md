@@ -13,7 +13,7 @@
 - 🔌 Building hands-on hardware and embedded systems projects, particularly utilizing the **ESP32 microcontroller** for IoT applications.
 - 💻 Exploring Signal Processing for EEG and ECG analysis.
 - 🌐 Check out my personal portfolio: [shahriyartaufik.in](https://shahriyartaufik.in)
-
+ 
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Web Dev:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
