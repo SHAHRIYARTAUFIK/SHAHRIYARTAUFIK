@@ -32,7 +32,7 @@
 - 🏆 **Smart India Hackathon (SIH):** Group Leader for team *Smart Flow*, focusing on an AI-Based Timetable Generation System aligned with the NEP 2020 framework.
 - 💼 **AWS Academy GEN-AI Virtual Internship:** Completed a 10-week specialized internship focusing on Generative AI.
 - 💼 **AICTE & EduSkills AI-ML Internship:** Completed a 10-week virtual internship supported by Google for Developers. 
-
+ 
 ### 📫 Connect with Me
  
 <p align="left">
