@@ -45,7 +45,7 @@
 
 | **GitHub Profile Stats** | **Most Used Languages** |
 | :---: | :---: |
-| <a href="https://github.com/SHAHRIYARTAUFIK"><img src="https://github-readme-stats-inky-nine-83.vercel.app/api?username=DeathSHMASHER&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="400" /></a> | <a href="https://github.com/DeathSHMASHER"><img src="https://github-readme-stats-inky-nine-83.vercel.app/api/top-langs/?username=DeathSHMASHER&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="358" /></a> |
+| <a href="https://github.com/SHAHRIYARTAUFIK"><img src="https://github-readme-stats-inky-nine-83.vercel.app/api?username=DeathSHMASHER&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="400" /></a> | <a href="https://github.com/DeathSHMASHER"><img src="https://github-readme-stats-inky-nine-83.vercel.app/api/top-langs/?username=DeathSHMASHER&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="305" /></a> |
 
 <br />
 
